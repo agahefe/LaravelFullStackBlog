@@ -1,3 +1,6 @@
+# In the future, this blog will be turned into a full-fledged open source blog site with an admin panel, a more advanced interface and more enriched backend forth. I can't spare time right now because I'm busy with my fulltime work.
+
+
 # Laravel 10.x blog
 
 The purpose of this repository is to show good development practices on [Laravel](http://laravel.com/) as well as to present cases of use of the framework's features like:
