@@ -1,4 +1,4 @@
-# In the future, this blog will be turned into a full-fledged open source blog site with an admin panel, a more advanced interface and more enriched backend forth. I can't spare time right now because I'm busy with my fulltime work.
+# In the future, this blog will be turned into a full-fledged open source blog site with an advanced admin panel, a more detailed React frontend interface and more enriched backend. I can't spare time right now because I'm busy with my fulltime work.
 
 
 # Laravel 10.x blog
